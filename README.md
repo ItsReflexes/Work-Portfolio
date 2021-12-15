@@ -5,7 +5,7 @@ Here are two examples of two web applications that I have created with the progr
 Second, in the Interactive data analysis folder, one will see different interactive data analysis charts. I made the charts using Pandas and Juypter Notebook. I believe it helps to show my analytical skills while having a strong foundation in Python.
 
 
-Third, I have several Tableau charts that represent different things. Within the Tableau Workbooks, I have applied several concepts like: data cleaning, splitting data information, JOIN on Tableau, and the reorganization of data. With data analysis, it's important for one to have a strong foundation data visualization. I believe I have strong analytical skills to work with different data formats and platforms to execute accurate analyzation of data.
+Third, I have several Tableau sheets in my workbook that represent different types of data visualization. ("Orders By State") Within the Tableau Workbooks, I have applied several concepts like: data cleaning, splitting data information, JOIN on Tableau, and the reorganization of data. With data analysis, it's important for one to have a strong foundation in data visualization. I believe I have strong analytical skills to work with different data formats and platforms to execute accurate analyzation of data.
 
 Fourth, in the Data Analysis Web App Folder, I have created a web app that collects and sends a user's height value. The results are sent to their desired email. I created this app using Python, Flask, Heroku and PostgreSQL. The link to the web app is https://mp-datashowcase.herokuapp.com/
 
