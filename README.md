@@ -1,4 +1,7 @@
 # Work-Portfolio
+In "Analyzing Traffic Sources", I have wrote several SQL Scripts that contain information on how volume and traffic can be measured based off of UTM parameters. 
+
+
 Here are two examples of two web applications that I have created with the programming language, Python. First, in the website folder, you'll see code that is linked in developing a live website with an English Thesaurus. The link to the website is http://marcuspitter.herokuapp.com/
 
 
