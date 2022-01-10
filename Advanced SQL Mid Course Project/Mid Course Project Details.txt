@@ -1,0 +1,32 @@
+Project Requirements
+	- The Board wants a growth story of the first 8 months of business.
+
+Project Questions
+	- Pull Monthly Trends for gsearch sessions and orders to showcase growth
+	- Split nonbrand sessions and brand campaign sessions seperately
+	- from gsearch, pull monthly sessions and orders split by device type
+	- Pull monthly trends for gsearch and monthly trends for all other channels
+	- Website Performance Improvements (session to order conversion rates by month)
+	- For gsearch lander test, estimate the revenue that the test produced. (date June 19 - July 28th) (nonbrand sessions)
+	- For the previous landing page test, produce a full conversion funnel from each of the two pages to orders. 
+	- Quanitfy the impact of our billing test, analyze the lift generated from (Sep 10 - Nov 10) by revenue per billing page session, 
+	then pull the number of billing page sessions for the past month to understand impact.
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+My Requirements 
+	- Using trend-based performance data
+	- Analyze current performance and use data to assess upcoming opportunities (SWOT Analysis w/ data analytics) 
