@@ -1,6 +1,9 @@
 # Work-Portfolio
 In "Analyzing Traffic Sources", I have wrote several SQL Scripts that contain information on how volume and traffic can be measured based off of UTM parameters. 
 
+In "Analyzing Website Performance", I have identified and analzyed the concept of conversion funnels, landing pages, and bounce sessions between different website pages.
+
+In the "Mid Course Project Folder", I have analyzed information from an e-commerce database to show a growth story of business sales, web traffic, and trend-based performance data.
 
 Here are two examples of two web applications that I have created with the programming language, Python. First, in the website folder, you'll see code that is linked in developing a live website with an English Thesaurus. The link to the website is http://marcuspitter.herokuapp.com/
 
