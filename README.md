@@ -5,6 +5,8 @@ In "Analyzing Website Performance", I have identified and analzyed the concept o
 
 In the "Mid Course Project Folder", I have analyzed information from an e-commerce database to show a growth story of business sales, web traffic, and trend-based performance data.
 
+In "Product Analysis" , I used MySQL to analyze and evaluate product-level sales, conversion rates, cross-selling patterns, and used refund rates to showcase product quality.
+
 Here are two examples of two web applications that I have created with the programming language, Python. First, in the website folder, you'll see code that is linked in developing a live website with an English Thesaurus. The link to the website is http://marcuspitter.herokuapp.com/
 
 
