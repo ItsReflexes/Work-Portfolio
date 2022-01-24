@@ -3,7 +3,7 @@ import smtplib
 
 def send_email(email, height, average_height, count):
     from_email= "pittermarcus00@gmail.com"
-    from_password="Marcus0601"
+    from_password=***********
     to_email=email
 
     subject="Height data"
