@@ -1,0 +1,36 @@
+Financial Model is used to reduce complexity and uncertainty.
+	- virtual representation of a business
+-Applications
+	Business valuation 
+	capital budgeting
+	Project Finacne
+	Asset Management
+Good Core Skills:
+	Microsoft Excel
+	Modeling
+
+Best and Worst Practices:
+Worst
+	- Do not write formulas with embedded constants
+	- Do not split your model across multiple workbooks
+	- Do not hide columns in your financial model ( should be user friendly)
+	- Avoid calculating items that have been calculated
+	- Don't forget to use checks!!! (balance sheet must be balanced) ( A=L+E)
+	- Avoid using current sheet references in formulas
+	- Avoid using complicated formulas
+	- Use Macros and VBA as little as possible (formatting macros are okay)
+	- Don't use different calculation blocks
+Best
+	- Build Flexible Models
+	- Use uniform structure 
+	- Make sure the model is error-free
+	- Build calculation blocks that are easy to replicate
+	- Include units in the header of your tables
+	- Create Printable documents
+- The different types of Models
+	- Credit Analysis (Cash Flows, Borrower's ability to pay)
+	- Equity Investments ( Valuation, Find investment opportunities)
+	- LBO ( Calculate Cash Flows, Calculate IRR)
+	- M&A ( Analyze Synergies, calcuate standalone value)
+	- Project Finance ( Plan Cash Flow Timing, Calculate IRR for lenders and equity sponsors)
+	- Startup Valuation ( Break-Even Analysis, Market Potential)
